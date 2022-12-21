@@ -1,4 +1,6 @@
-# ChatGPT-Replit
+# ChatGPT-Replit  <!-- omit in toc -->
+> Replit Template for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API.
+
 Get [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) working with just one click in your [Replit](https://replit.com/) account. Feel free to copy this Template and start using it!
 
 ## What is this?
@@ -16,19 +18,19 @@ Please consider that this is not the official [OpenAI](https://openai.com/) [Cha
 3. Set the account type by changing "isLogin" variables inside the 'index.js' file ```./js/index.js```:
 
 - For OpenAI Account, both values have to be false:
-```
+```ts
 const isGoogleLogin = false;
 const isMicrosoftLogin = false;
 ```
 
 - For Google Account, set Google to true and Microsoft to false:
-```
+```ts
 const isGoogleLogin = true;
 const isMicrosoftLogin = false;
 ```
   
 - For Microsoft Account, set Google to false and Microsoft to true:
-```
+```ts
 const isGoogleLogin = false;
 const isMicrosoftLogin = true;
 ```
