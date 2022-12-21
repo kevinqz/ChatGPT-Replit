@@ -1,5 +1,5 @@
 # ChatGPT-Replit
-Get ChatGPT-API working with just one click in your Replit account. Feel free to copy this Template and start using it!
+Get [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) working with just one click in your [Replit](https://replit.com/) account. Feel free to copy this Template and start using it!
 
 ## What is this?
 This is a bash REPL with Node v18 that demonstrates (unofficial) ChatGPT-API running in a Headful Puppeteer (Chromium) on Replit.
