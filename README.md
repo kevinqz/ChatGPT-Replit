@@ -4,6 +4,8 @@ Get [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) working wi
 ## What is this?
 This is a bash REPL with Node v18 that demonstrates (unofficial) ChatGPT-API running in a Headful Puppeteer (Chromium) on Replit.
 
+Please consider that this is not the official [OpenAI](https://openai.com/) [ChatGPT](https://chat.openai.com/chat) API.
+
 ## What I need to use it?
 1. A [Replit](https://replit.com/) account
 2. An [OpenAI](https://openai.com/) account (either a direct account, a Google, or a Microsoft account)
@@ -35,8 +37,6 @@ const isMicrosoftLogin = true;
 5. Edit the index.js to use the [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) accordling to your needs
 
 ## Happy Building! 🚀
-Please consider that this is not the official OpenAI ChatGPT API.
-
 If you like it, considering following me for future updates and works:
 - Replit [@kevinqz](replit.com/@kevinqz)
 - GitHub [@kevinqz](https://github.com/kevinqz)
