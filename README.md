@@ -1,4 +1,4 @@
-# ChatGPT-Replit  <!-- omit in toc -->
+[ChatGPTReplit](https://replit.com/@kevinqz/ChatGPT-Replit-Headful-Puppeteer-NodeJS-ChatGPT-API)  <!-- omit in toc -->
 > Replit Template for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API.
 
 Get [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) working with just one click in your [Replit](https://replit.com/) account. Feel free to copy this Template and start using it!
@@ -13,7 +13,7 @@ Please consider that this is not the official [OpenAI](https://openai.com/) [Cha
 2. An [OpenAI](https://openai.com/) account (either a direct account, a Google, or a Microsoft account)
 
 ## How to use it?
-1. Fork the Replit to your account
+1. Fork the [ChatGPTReplit Template](https://replit.com/@kevinqz/ChatGPT-Replit-Headful-Puppeteer-NodeJS-ChatGPT-API) to your account
 2. Create two Replit Secrets (Tools > Secrets): one for your EMAIL and one for your PASSWORD. This is important to keep your account info private. 
 3. Set the account type by changing "isLogin" variables inside the 'index.js' file ```./js/index.js```:
 
