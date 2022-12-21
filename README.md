@@ -1,5 +1,5 @@
-[ChatGPTReplit](https://replit.com/@kevinqz/ChatGPT-Replit-Headful-Puppeteer-NodeJS-ChatGPT-API)  <!-- omit in toc -->
-> Replit Template for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API.
+ChatGPT-Replit <!-- omit in toc -->
+> [Replit Template](https://replit.com/@kevinqz/ChatGPT-Replit-Headful-Puppeteer-NodeJS-ChatGPT-API) for the unofficial [ChatGPT](https://openai.com/blog/chatgpt/) API.
 
 Get [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) working with just one click in your [Replit](https://replit.com/) account. Feel free to copy this Template and start using it!
 
