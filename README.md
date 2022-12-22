@@ -10,7 +10,9 @@ Please consider that this is not the official [OpenAI](https://openai.com/) [Cha
 
 ## What I need to use it?
 1. A [Replit](https://replit.com/) account
-2. An [OpenAI](https://openai.com/) account (either a direct account, a Google, or a Microsoft account)
+2. An [OpenAI](https://openai.com/) account (either a direct account, a Google, or a Microsoft account).
+
+Google and Microsoft accounts doesn't require solving a Captcha when logging in. If you decide for the OpenAI e-mail account, you'll need to solve the captcha either manually (through the Replit Output) or using a third-party service that can solve it for you.
 
 ## How to use it?
 1. Fork the [Replit Template](https://replit.com/@kevinqz/ChatGPT-Replit-Headful-Puppeteer-NodeJS-ChatGPT-API) to your account
@@ -36,11 +38,12 @@ const isMicrosoftLogin = true;
 ```
 
 4. You're all set! Press 'Run' to say "Hello World" to your ChatGPT instance
-5. Edit the index.js to use the [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) accordling to your needs
+
+5. Edit the index.js to use the [ChatGPT-API](https://github.com/transitive-bullshit/chatgpt-api) according to your needs
 
 ## Happy Building! 🚀
 If you like it, considering following me for future updates and works:
-- Replit [@kevinqz](replit.com/@kevinqz)
+- Replit [@kevinqz](https://replit.com/@kevinqz)
 - GitHub [@kevinqz](https://github.com/kevinqz)
 
 ## Special thanks:
